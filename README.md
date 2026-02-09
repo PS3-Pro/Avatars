@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # Avatars
-PlayStation™Network Rare and Premium Avatars for PS3™ 4K Pro.
+PlayStation™Network Rare and Premium Avatars for PS3™ Pro.
 
 [![Github downloads (by repository)](https://img.shields.io/github/downloads/LuanTeles/Avatars/total?style=social)](https://github.com/LuanTeles/Avatars/releases)
 
